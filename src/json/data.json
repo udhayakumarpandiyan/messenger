@@ -1,0 +1,12 @@
+{
+    "messages": [
+        {"sender":"Shishir", "time":"01/05/2021", "text":" hello, how are you", "picture": ""}, 
+    {"sender":"Gautham", "time":"01/05/2021", "text":" Hi Udhayakumar, how are you", "picture": ""},
+    {"sender":"Ram", "time":"01/05/2021", "text":" hi buddy, where are you", "picture": ""}, 
+    {"sender":"Sonali", "time":"01/05/2021", "text":" Hi Udhayakumar, hope you are doing good .", "picture": ""},
+    {"sender":"Amrutha", "time":"01/05/2021", "text":" Hi , can we go out for shopping ?", "picture": ""}, 
+    {"sender":"Nagendra", "time":"01/05/2021", "text":" Where are you now ? can you please come to the office immedaitely", "picture": ""},
+    {"sender":"Dileep", "time":"01/05/2021", "text":" hello, how are you", "picture": ""}, 
+    {"sender":"Senthil", "time":"01/05/2021", "text":" Hi Udhayakumar, This is senthil ", "picture": ""}
+]
+}
